@@ -21,7 +21,7 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/JYG200">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=dark&langs_count=10"
   </a>
 </p>
