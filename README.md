@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling)
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20JEUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20JEUN!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=FFFFFF)
    
 <h2 align="center"> 💡 My Tech Stack 💡</h2>
 <p align="center">
