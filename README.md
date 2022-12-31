@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 <h2> My Tech Stack 📚</h2>
 
@@ -12,4 +12,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYG200&theme=dark&show_icons=true)](https://github.com/JYG200/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=dark&height=200&section=footer)
