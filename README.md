@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeunYongGyu&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
 <h2> My Tech Stack 📚</h2>
 
