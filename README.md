@@ -14,7 +14,7 @@
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/JYG200/github-readme-stats">
+  <a href="https://github.com/JYG200">
       <img src="https://github-readme-stats.vercel.app/api?username=JYG200&theme=dark&show_icons=true"
   </a>
 </p>
