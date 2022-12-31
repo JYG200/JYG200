@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=160&section=header&text=Hi!%20I'm%20JEUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=160&section=header&text=Hi!%20I'm%20JEUN!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=F98802)
    
 <h2 align="center"> 💡 My Tech Stack 💡</h2>
 <p align="center">
