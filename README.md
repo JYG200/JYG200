@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=dark&height=200&section=header&text=JeunYongGyu&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 
    
 <h2 align="center"> 💡 My Tech Stack 💡</h2>
