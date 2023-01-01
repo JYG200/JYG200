@@ -16,7 +16,13 @@
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
 <p><br><br>
 
-
+<h3 align="center"> 💡 My Tech Stack 💡</h3>
+<p align="center">
+    <a href="https://github.com/JYG200">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=transparent&langs_count=10&title_color=7F7EBE&text_color=transparent">
+    </a>
+</p><br>
+   
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
     <a href="https://github.com/JYG200">
@@ -25,12 +31,7 @@
 </p><br>
 
 
-<h3 align="center"> 💡 My Tech Stack 💡</h3>
-<p align="center">
-    <a href="https://github.com/JYG200">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=transparent&langs_count=10&title_color=7F7EBE&text_color=transparent">
-    </a>
-</p><br><br>
+
 
 
    
