@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yeon+Sung&size=30&pause=1000&color=CECDFF&background=FFFFFF00&center=true&width=435&lines=HI+there%2C+I'm+YongGyu)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Yeon+Sung&size=30&pause=1000&color=CECDFF&background=FFFFFF00&center=true&width=435&lines=HI+there%2C+I'm+YongGyu" alt="Typing SVG" />
+</a>
+
 
 <h2 align="center"> 💡 My Tech Stack 💡</h2>
 <p align="center">
