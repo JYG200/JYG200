@@ -8,14 +8,14 @@
 <h3 align="center"> 💡 My Tech Stack 💡</h3>
 <p align="center">
     <a href="https://github.com/JYG200">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=transparent&langs_count=10&title_color=C7C6F4&text_color=transparent">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYG200&layout=compact&theme=transparent&langs_count=10&title_color=A6A5DE&text_color=transparent">
     </a>
 </p><br>
    
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
     <a href="https://github.com/JYG200">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYG200&theme=transparent&show_icons=true&title_color=C7C6F4&text_color=transparent">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYG200&theme=transparent&show_icons=true&title_color=A6A5DE&text_color=transparent">
    </a>
 </p><br>
 
