@@ -1,8 +1,6 @@
 <br><br>
 <p align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?                 font=Yeon+Sung&size=40&pause=1000&color=C7C6F4&background=FFFFFF00&center=true&width=435&lines=HI+there%2C+I'm+YongGyu" alt="Typing SVG" />
-   </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=40&pause=1000&color=C7C6F4&multiline=true&width=435&lines=Hi+there+I'm+Jeun" alt="Typing SVG" /></a>
 </p><br><br>
 
 <h3 align="center" style="color: #C7C6F4;"> 💡 My Tech Stack 💡</h3>
